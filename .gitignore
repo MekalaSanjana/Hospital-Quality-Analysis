@@ -1,0 +1,25 @@
+# Full local data
+data/input/*.csv
+
+# Keep tracking sample data
+!data/sample/*.csv
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Excel temp files
+~$*.xlsx
+
+# Python tools 
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
