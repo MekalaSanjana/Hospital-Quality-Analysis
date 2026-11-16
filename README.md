@@ -126,7 +126,8 @@ The `Pivot Analysis` sheet adds an interactive layer to the workbook. It include
 
 The workbook also includes an ownership-by-quality-domain PivotTable heat map. This shows how below-national-average rates vary across ownership types and CMS quality domains.
 
-![Excel Pivot Analysis sheet](excel/screenshots/pivot_analysis.png)
+![Excel Pivot Analysis sheet](<img width="2306" height="1037" alt="pivot_analysis" src="https://github.com/user-attachments/assets/1abb3a86-7792-47af-bf99-ec1150efc660" />
+)
 
 The Excel workbook acts as a static analyst report and exploratory workbook. 
 
