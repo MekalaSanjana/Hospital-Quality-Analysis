@@ -206,7 +206,8 @@ Basic DAX measures were also used for dashboard metrics such as rating coverage,
 The Power BI dashboard acts as the interactive reporting layer of the project. It builds on the SQL analysis and Excel report by adding slicers, dynamic visuals, gauges, scatter plots, and quality-domain exploration.
 
 ### Dashboard screenshots
-(<img width="1672" height="941" alt="Hospital_Quality_Dashboard" src="https://github.com/user-attachments/assets/089055b2-a297-4abc-ae70-7486515bb695" />
+(<<img width="1470" height="806" alt="Hospital Dashboard" src="https://github.com/user-attachments/assets/877c1124-7ab5-4b7c-8556-d89e81923a98" />
+/>
 
 ### Author
 Mekala Sanjana
