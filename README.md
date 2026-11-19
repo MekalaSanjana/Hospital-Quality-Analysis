@@ -127,7 +127,8 @@ This is **not an official CMS metric**. It is an internal ranking aid for this a
 
 ## Excel report
 
-Location: `Excel/hospital_quality_report.xlsx` [![alt text](pivot_analysis-1.png)]
+Location: `Excel/hospital_quality_report.xlsx` <img width="2306" height="1037" alt="pivot_analysis" src="https://github.com/user-attachments/assets/972dbb56-5d5e-4140-bf79-b5d5f9dbb948" />
+
 
 The workbook uses the exported SQL output CSV files from `Data/output/` and includes:
 
