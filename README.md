@@ -2,7 +2,8 @@
 
 An end-to-end analytics project on the CMS Hospital General Information dataset (4,812 hospitals). It uses **Python, SQLite, SQL, Excel and Power BI** to study hospital ratings, rating coverage and CMS quality-domain performance across states, ownership types and hospital types.
 
-![Hospital Quality Analytics dashboard](Power%20BI/Hospital_Quality_Dashboard.png)
+![Hospital Quality Analytics dashboard](Power%20BI/Hospital_Quality_Dashboard.png) <img width="1476" height="807" alt="Hospital Quality Dashboard" src="https://github.com/user-attachments/assets/b7ecf52f-58c9-4a99-b422-46ca43a5a9ea" />
+
 
 ---
 
